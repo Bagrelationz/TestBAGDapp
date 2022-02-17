@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x224326c7414a8AFA0201d01fcEe6cc8923C17243",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x224326c7414a8afa0201d01fcee6cc8923c17243",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "The Big Bag NFT",
+  "SYMBOL": "TBB",
+  "MAX_SUPPLY": 30,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/thebigbag",
+  "SHOW_BACKGROUND": true
+}
